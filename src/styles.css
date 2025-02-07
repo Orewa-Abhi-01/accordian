@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  /* height:100px; */
+  width: 70vw;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+.title {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(120, 60, 60);
+  align-items: center;
+}
+button {
+  /* height:20px; */
+  font-size: 10px;
+}
